@@ -1,0 +1,4 @@
+repository "Maze Game@Soft_Eng_MW@cloud"
+  path "/"
+    br "/main"
+    co "/main"
